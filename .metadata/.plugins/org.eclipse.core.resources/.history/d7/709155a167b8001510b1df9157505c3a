@@ -1,0 +1,11 @@
+
+public class Person {
+	String name;
+	int age;
+	
+	public Persion(String name, int age)
+	{
+		this.name = name;
+		this.age = age;
+	}
+}

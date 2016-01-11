@@ -1,0 +1,17 @@
+package cp22_HashSetEqualityOne;
+
+class SimpleNumber
+{
+	int num;
+	public SimpleNumber(int i)
+	{
+		num = i;
+	}
+}
+
+public class HashSetEqualityOne {
+	public static void main(String [] args)
+	{
+		
+	}
+}

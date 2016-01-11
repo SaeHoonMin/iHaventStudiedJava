@@ -1,0 +1,17 @@
+import java.util.HashSet;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		HashSet<Person> hSet = new HashSet<Persion>();
+		hSet.add(new Person("세니",26));
+		hSet.add(new Person("주이",23));
+		hSet.add(new Person("이진호",20));
+		hSet.add(new Person("이진호",10));
+		hSet.add(new Person("이진호",15));
+		hSet.add(new Person("세니",23));
+		
+	}
+
+}
