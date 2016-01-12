@@ -1,2 +1,16 @@
-.metadata/*
-.recommenders/*
+### Eclipse ###
+*.pydevproject
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+
+### Java ###
+*.class
